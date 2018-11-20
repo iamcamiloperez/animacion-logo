@@ -30,6 +30,7 @@ body {
  animation-timing-function: linear;
  animation-fill-mode: forwards;
  position:relative;
+ will-change: opacity, transform;
 }
 
 
